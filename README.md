@@ -1,0 +1,2 @@
+MACO-lite-desktop
+=================
